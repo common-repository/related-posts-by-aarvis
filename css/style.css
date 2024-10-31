@@ -1,0 +1,57 @@
+.relatedposts {width: 600px; margin: 0 0 20px 0; float: left; font-size: 12px;}
+.relatedposts h3 {font-size: 20px; margin: 0 0 5px 0; }
+.relatedposts h4 {font-size: 15px; margin: 0 0 5px 0; }
+
+.relatedthumbsmall {margin: 0 1px 0 1px; float: left; }
+.relatedthumbsmall img {margin: 0 0 3px 0; padding: 0; width: 100px; height: 100px;}
+.relatedthumbsmall a {color :#333; text-decoration: none; display:block; padding: 4px; width: 100px; height: 280px;}
+.relatedthumbsmall a:hover {background-color: #ddd; color: #000;}
+
+.relatedthumbmedium {margin: 0 1px 0 1px; float: left; }
+.relatedthumbmedium img {margin: 0 0 3px 0; padding: 0; width: 150px; height: 150px;}
+.relatedthumbmedium a {color :#333; text-decoration: none; display:block; padding: 4px; width: 150px; height: 300px;}
+.relatedthumbmedium a:hover {background-color: #ddd; color: #000;}
+
+.relatedthumblarge {margin: 0 1px 0 1px; float: left; }
+.relatedthumblarge img {margin: 0 0 3px 0; padding: 0; width: 200px; height: 200px;}
+.relatedthumblarge a {color :#333; text-decoration: none; display:block; padding: 4px; width: 200px; height: 330px;}
+.relatedthumblarge a:hover {background-color: #ddd; color: #000;}
+
+
+.relatedthumbexlarge {margin: 0 1px 0 1px; float: left; }
+.relatedthumbexlarge img {margin: 0 0 3px 0; padding: 0; width: 250px; height: 250px;}
+.relatedthumbexlarge a {color :#333; text-decoration: none; display:block; padding: 4px; width: 250px; height: 350px;}
+.relatedthumbexlarge a:hover {background-color: #ddd; color: #000;}
+
+
+
+
+.divTable{
+	display: table;
+	width: 100%;
+}
+.divTableRow {
+	display: table-row;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+}
+.divTableCell, .divTableHead {
+	border: 0px solid #999999;
+	display: table-cell;
+	padding: 10px 10px;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+	font-weight: bold;
+}
+.divTableFoot {
+	background-color: #EEE;
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divTableBody {
+	display: table-row-group;
+}
